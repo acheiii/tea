@@ -1,17 +1,23 @@
 {
   "name": "teateatea",
   "version": "1.0.0",
-  "description": "new pj",
+  "description": "Demostr App",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/acheiii/teateatea"
+    "url": "https://github.com/acheiii/teateatea.git"
   },
   "dependencies": {
-    "minti_fulkerson": "0.1.4"
+    "teatea-proj-n1ka": "1.0.0",
+    "tea-proj-nika": "1.0.0",
+    "tea-project-top-sok": "1.0.0",
+    "tea-demonstr-pr-ostr": "1.0.0",
+    "tea-demonst-project-ggg": "1.0.0",
+    "project_tea_ol": "1.0.0",
+    "project_tea_demonstration_omg": "1.0.0"
   },
   "author": "",
   "license": "ISC",
